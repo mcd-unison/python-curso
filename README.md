@@ -1,8 +1,3 @@
----
-title: Python para Ciencia de Datos
-subtitle: Material del Curso
----
-
 ## Dra. Edelmira Rodríguez Alcantar
 
 
