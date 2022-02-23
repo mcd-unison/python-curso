@@ -1,4 +1,4 @@
-# Material para el curso Python para Ciencia de Datos
+# Python para Ciencia de Datos
 ## Edelmira Rodríguez Alcantar
 
 
