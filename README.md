@@ -1,5 +1,5 @@
 # Python para Ciencia de Datos
-## Edelmira Rodríguez Alcantar
+## Edelmira Rodríguez Alcántar
 
 
 ## Libretas en Colab
