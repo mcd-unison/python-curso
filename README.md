@@ -6,7 +6,7 @@
 
 
 1. [Familiarizarnos con Colab](https://colab.research.google.com/drive/1PesSFMISDqu_HR0LAGkgPvUBCl6KrePw?usp=sharing)
-2. [Introducción a Numpy] (https://colab.research.google.com/drive/1vG7FgFabAC_DrzrrAUBr9-KNo52-Zhg_?usp=sharing)
+2. [Introducción a Numpy](https://colab.research.google.com/drive/1vG7FgFabAC_DrzrrAUBr9-KNo52-Zhg_?usp=sharing)
 3. [Matplotlib](https://colab.research.google.com/drive/15UPR0dCsUMkzItysLMavedFJumKgWRdn?usp=sharing)
 
 
